@@ -1,5 +1,6 @@
 import axios from "axios";
 import dotenv from "dotenv";
+import { words } from "./words";
 
 dotenv.config();
 
